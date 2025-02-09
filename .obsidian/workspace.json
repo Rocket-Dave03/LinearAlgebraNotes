@@ -6,6 +6,7 @@
       {
         "id": "f11af879c8f1c294",
         "type": "tabs",
+        "dimension": 51.636904761904766,
         "children": [
           {
             "id": "bfebc4b314399b92",
@@ -13,12 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test 1.md",
+                "file": "Section 1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 1"
+              "title": "Section 1.1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "24d132a9561ef573",
+        "type": "tabs",
+        "dimension": 48.36309523809524,
+        "children": [
+          {
+            "id": "f06e8dd95409b0c6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "slides/Section 1.1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Section 1.1"
             }
           }
         ]
@@ -78,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "97662d4b1a34ceff",
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test 1.md",
+                "file": "Section 1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test 1"
+              "title": "Backlinks for Section 1.1"
             }
           },
           {
@@ -113,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test 1.md",
+                "file": "Section 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test 1"
+              "title": "Outgoing links from Section 1.1"
             }
           },
           {
@@ -142,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test 1.md",
+                "file": "Section 1.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 1"
+              "title": "Outline of Section 1.1"
             }
           },
           {
@@ -185,8 +205,9 @@
   "lastOpenFiles": [
     "Test 1.md",
     "Section 1.1.md",
-    "Test 1.md~",
     "slides/Section 1.1.pdf",
+    "slides/Section 0.pdf",
+    "Test 1.md~",
     "slides/Section 2.6.pdf",
     "slides/Section 2.1.pdf",
     "slides/Section 2.2.pdf",
@@ -194,7 +215,6 @@
     "slides/Section 1.2.pdf",
     "slides/Section 1.9.pdf",
     "slides/Section 1.8.pdf",
-    "slides/Section 1.7.pdf",
     "a.md",
     "Welcome.md"
   ]
