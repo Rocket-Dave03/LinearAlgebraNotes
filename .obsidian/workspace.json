@@ -6,7 +6,7 @@
       {
         "id": "f11af879c8f1c294",
         "type": "tabs",
-        "dimension": 51.636904761904766,
+        "dimension": 51.63690476190477,
         "children": [
           {
             "id": "bfebc4b314399b92",
@@ -27,7 +27,7 @@
       {
         "id": "24d132a9561ef573",
         "type": "tabs",
-        "dimension": 48.36309523809524,
+        "dimension": 48.36309523809523,
         "children": [
           {
             "id": "f06e8dd95409b0c6",
@@ -35,10 +35,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "slides/Section 1.1.pdf"
+                "file": "slides/Section 2.6.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Section 1.1"
+              "title": "Section 2.6"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "space",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,25 +196,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false,
-      "markwhen:Create new Markwhen file": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfebc4b314399b92",
+  "active": "f06e8dd95409b0c6",
   "lastOpenFiles": [
-    "Test 1.md",
-    "Section 1.1.md",
-    "slides/Section 1.1.pdf",
-    "slides/Section 0.pdf",
-    "Test 1.md~",
-    "slides/Section 2.6.pdf",
-    "slides/Section 2.1.pdf",
-    "slides/Section 2.2.pdf",
     "slides/Section 2.3.pdf",
-    "slides/Section 1.2.pdf",
+    "slides/Section 2.2.pdf",
+    "slides/Section 2.1.pdf",
     "slides/Section 1.9.pdf",
     "slides/Section 1.8.pdf",
+    "slides/Section 1.7.pdf",
+    "slides/Section 1.5.pdf",
+    "slides/Section 1.4.pdf",
+    "slides/Section 1.3.pdf",
+    "slides/Section 1.2.pdf",
+    "slides/Section 0.pdf",
+    "Test 1.md",
+    "Section 1.1.md",
     "a.md",
     "Welcome.md"
   ]
