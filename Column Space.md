@@ -1,0 +1,1 @@
+The *column space* if a matrix $A$ is the span of its columns, denoted $col(A)$

@@ -15,7 +15,7 @@ Test #2 is scheduled for Wednesday March 19
 	- [ ] [[Section 2.2]]
 	- [ ] [[Section 2.3]]
 	- [ ] [[Section 2.6]]
-	- [ ] [[Section 2.8]]
+	- [ ] [[Section 2.8]] (This and bellow are new from previous)
 	- [ ] [[Section 2.9]]
 - Chapter 3
 	- [ ] [[Section 3.1]]

@@ -6,6 +6,7 @@
       {
         "id": "24d132a9561ef573",
         "type": "tabs",
+        "dimension": 50.14064697609001,
         "children": [
           {
             "id": "f06e8dd95409b0c6",
@@ -25,6 +26,27 @@
           },
           {
             "id": "83d8a8e9099315d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basis"
+            }
+          }
+        ]
+      },
+      {
+        "id": "233c18d3ce7bb450",
+        "type": "tabs",
+        "dimension": 49.85935302390999,
+        "children": [
+          {
+            "id": "720d0701174b6d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 201.5
   },
   "right": {
     "id": "97662d4b1a34ceff",
@@ -182,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,19 +219,24 @@
   },
   "active": "f06e8dd95409b0c6",
   "lastOpenFiles": [
-    "Test 1.md",
     "Section 1.1.md",
+    "slides/Mat 2610 Section 1.1 Annotated.pdf",
+    "slides/Mat 2610 Section 2.8 Annotated.pdf",
+    "Basis.md",
+    "slides/Mat 2610 Section 0 Annotated.pdf",
+    "Section 2.8.md",
+    "Column Space.md",
+    "Null Space.md",
     "Test 2.md",
+    "Subspace.md",
+    "slides/Mat 2610 Section 2.6 Annotated.pdf",
+    "Test 1.md",
+    "slides/Mat 2610 Section 2.3 Annotated.pdf",
+    "slides/Mat 2610 Section 2.2 Annotated.pdf",
     "slides/Section 2.3.pdf",
     "slides/Section 2.2.pdf",
     "slides/Section 2.1.pdf",
     "slides/Section 1.9.pdf",
-    "slides/Section 1.8.pdf",
-    "slides/Section 1.7.pdf",
-    "slides/Section 1.5.pdf",
-    "slides/Section 1.4.pdf",
-    "slides/Section 1.3.pdf",
-    "slides/Section 1.2.pdf",
     "a.md",
     "Welcome.md"
   ]
