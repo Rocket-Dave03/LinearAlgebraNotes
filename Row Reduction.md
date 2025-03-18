@@ -1,0 +1,3 @@
+Any matrix can be row reduced (transformed by [[Elementary Row Operations]] into more than one matrix in [[Echelon Forms#Row echelon form|echelon form]]) The resultant matrix obtained depends on the specific [[Elementary Row Operations]] picked and are not unique
+
+However the [[Echelon Forms#Reduced Row Echelon Form|reduced row echelon form]] matrix obtained for any matrix is unique. No mater what [[Elementary Row Operations|operations]] are chosen the result will be the same

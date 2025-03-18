@@ -6,7 +6,7 @@
       {
         "id": "24d132a9561ef573",
         "type": "tabs",
-        "dimension": 50.14064697609001,
+        "dimension": 53.30520393811533,
         "children": [
           {
             "id": "f06e8dd95409b0c6",
@@ -16,7 +16,7 @@
               "type": "markdown",
               "state": {
                 "file": "Test 2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -25,38 +25,37 @@
             }
           },
           {
-            "id": "83d8a8e9099315d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basis"
-            }
-          }
-        ]
-      },
-      {
-        "id": "233c18d3ce7bb450",
-        "type": "tabs",
-        "dimension": 49.85935302390999,
-        "children": [
-          {
             "id": "720d0701174b6d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 1.1.md",
+                "file": "Row Reduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 1.1"
+              "title": "Row Reduction"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c747fe0b6e045ec8",
+        "type": "tabs",
+        "dimension": 46.69479606188467,
+        "children": [
+          {
+            "id": "8265d433f8258f04",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "slides/Mat 2610 Section 1.2 Annotated.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mat 2610 Section 1.2 Annotated"
             }
           }
         ]
@@ -217,17 +216,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f06e8dd95409b0c6",
+  "active": "720d0701174b6d5d",
   "lastOpenFiles": [
-    "Section 1.1.md",
+    "Section 1.2.md",
+    "Row Reduction.md",
     "slides/Mat 2610 Section 1.1 Annotated.pdf",
+    "Echelon Forms.md",
+    "Section 2.8.md",
+    "slides/Mat 2610 Section 1.2 Annotated.pdf",
+    "Test 2.md",
+    "slides/Mat 2610 Section 1.3 Annotated.pdf",
+    "Section 1.1.md",
     "slides/Mat 2610 Section 2.8 Annotated.pdf",
     "Basis.md",
     "slides/Mat 2610 Section 0 Annotated.pdf",
-    "Section 2.8.md",
     "Column Space.md",
     "Null Space.md",
-    "Test 2.md",
     "Subspace.md",
     "slides/Mat 2610 Section 2.6 Annotated.pdf",
     "Test 1.md",
@@ -235,8 +239,6 @@
     "slides/Mat 2610 Section 2.2 Annotated.pdf",
     "slides/Section 2.3.pdf",
     "slides/Section 2.2.pdf",
-    "slides/Section 2.1.pdf",
-    "slides/Section 1.9.pdf",
     "a.md",
     "Welcome.md"
   ]
