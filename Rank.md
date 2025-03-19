@@ -1,0 +1,1 @@
+The *rank* of a [[Matrix|matrix]] $A$, denoted $\large{rank(A)}$, is the [[Dimension|dimension]] if the [[Column Space]] of $A$

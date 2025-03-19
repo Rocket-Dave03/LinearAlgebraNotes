@@ -23,5 +23,5 @@ $$
 $$
 is the standard basis of $R^3$
 
-# Theorem 13
-The pivot columns of a matrix $A$ from a basis from the [[Column Space|column space]] of $A$
+
+# [[Theorems#Theorem 13|Theorem 13]]
