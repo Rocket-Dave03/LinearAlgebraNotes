@@ -1,14 +1,14 @@
 
 ## Other things to remember
-[[Gaussian Elimination]]
+![[Row Reduction#Gaussian Elimination]]
 ### Topics Covered
 - Chapter 1
 	- [x] [[Section 1.1]]
-	- [ ] [[Section 1.2]]
-	- [ ] [[Section 1.3]]
-	- [ ] [[Section 1.4]]
-	- [ ] [[Section 1.5]]
-	- [ ] [[Section 1.7]]
+	- [x] [[Section 1.2]]
+	- [x] [[Section 1.3]]
+	- [x] [[Section 1.4]]
+	- [x] [[Section 1.5]]
+	- [x] [[Section 1.7]]
 	- [ ] [[Section 1.8]]
 	- [ ] [[Section 1.9]]
 - Chapter 2

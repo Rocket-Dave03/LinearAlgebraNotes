@@ -6,7 +6,7 @@
       {
         "id": "24d132a9561ef573",
         "type": "tabs",
-        "dimension": 48.97849462365592,
+        "dimension": 40.514905149051486,
         "children": [
           {
             "id": "aa1a34bd48fb6015",
@@ -25,37 +25,47 @@
             }
           },
           {
-            "id": "1c14a371fb2057db",
+            "id": "7d4b038e39e32982",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variable types.md",
+                "file": "Exam.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Variable types"
+              "title": "Exam"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "3798e8edc0d74cd8",
+        "id": "cc45c09a8d497a27",
         "type": "tabs",
-        "dimension": 51.02150537634409,
+        "dimension": 59.48509485094851,
         "children": [
           {
-            "id": "2cd17e761114c0ee",
+            "id": "ab00a56ea75f7b0e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "slides/Mat 2610 Section 1.2 Annotated.pdf"
+                "file": "slides/Mat 2610 Section 1.8 Annotated.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Mat 2610 Section 1.2 Annotated"
+              "title": "Mat 2610 Section 1.8 Annotated"
             }
           }
         ]
@@ -90,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leading",
+                "query": "pivot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slides/Mat 2610 Section 1.2 Annotated.pdf",
+                "file": "Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mat 2610 Section 1.2 Annotated"
+              "title": "Backlinks for Exam"
             }
           },
           {
@@ -150,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slides/Mat 2610 Section 1.2 Annotated.pdf",
+                "file": "Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mat 2610 Section 1.2 Annotated"
+              "title": "Outgoing links from Exam"
             }
           },
           {
@@ -203,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,20 +226,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "506612036e80e5ba",
+  "active": "7d4b038e39e32982",
   "lastOpenFiles": [
+    "Row Reduction.md",
+    "Exam.md",
+    "slides/Mat 2610 Section 1.1 Annotated.pdf",
+    "slides/Mat 2610 Section 1.2 Annotated.pdf",
+    "Pivot.md",
+    "slides/Mat 2610 Section 1.8 Annotated.pdf",
+    "slides/Mat 2610 Section 1.7 Annotated.pdf",
+    "Section 1.7.md",
+    "Linear Independence.md",
+    "Basis.md",
+    "Theorems.md",
+    "Matrix.md",
+    "slides/Mat 2610 Section 1.4 Annotated.pdf",
+    "slides/Mat 2610 Section 1.5 Annotated.pdf",
+    "The Matrix Equation.md",
+    "Section 1.4.md",
+    "Matrix Multiplication.md",
+    "Section 6.3.md",
+    "slides/Mat 2610 Section 1.3 Annotated.pdf",
+    "Section 1.2.md",
+    "Parametric Description of Solution Set.md",
     "Variable types.md",
     "b.md",
     "a.md",
-    "Section 1.2.md",
-    "Row Reduction.md",
     "Echelon Forms.md",
-    "Theorems.md",
-    "slides/Mat 2610 Section 1.2 Annotated.pdf",
-    "Basis.md",
-    "Exam.md",
-    "slides/Mat 2610 Section 1.1 Annotated.pdf",
-    "Matrix.md",
     "Elementary Row Operations.md",
     "slides/Mat 2610 Section 0 Annotated.pdf",
     "Cramer's Rule.md",
@@ -238,21 +261,7 @@
     "Section 4.3.md",
     "Section 4.4.md",
     "Section 4.5.md",
-    "Section 4.6.md",
-    "Section 5.1.md",
-    "Section 5.2.md",
-    "Section 6.3.md",
-    "Section 6.2.md",
-    "Section 6.1.md",
-    "Section 5.3.md",
-    "Null Space.md",
-    "Subspace.md",
     "slides/Mat 2610 Section 6.3 Annotated.pdf",
-    "slides/Mat 2610 Section 6.2 Annotated.pdf",
-    "slides/Mat 2610 Section 6.1 Annotated.pdf",
-    "slides/Mat 2610 Section 5.3 Annotated.pdf",
-    "slides/Mat 2610 Section 5.2 Annotated.pdf",
-    "slides/Mat 2610 Section 5.1 Annotated.pdf",
-    "slides/Mat 2610 Section 4.6 Annotated.pdf"
+    "slides/Mat 2610 Section 6.2 Annotated.pdf"
   ]
 }

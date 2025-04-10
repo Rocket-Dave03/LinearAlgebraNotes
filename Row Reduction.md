@@ -6,11 +6,13 @@ However the [[Echelon Forms#Reduced Row Echelon Form|reduced row echelon form]] 
 ![[Theorems#Theorem 1]]
 
 # Definitions
-- *Pivot position*: the positions in a matrix that contain the [[Echelon Forms#Leading Entry|leading entry]] of a [[Echelon Forms#Non-Zero row/column|non-zero row]] 
-- *Pivot column* a column that contains a pivot position
+### *Pivot position*:
+The positions in a matrix that contain the [[Echelon Forms#Leading Entry|leading entry]] of a [[Echelon Forms#Non-Zero row/column|non-zero row]] 
+### *Pivot column*
+A column that contains a pivot position
 
 # Gaussian Elimination
-Is a methodical process that converts any [[Matrix]] into a [[Echelon Forms#Reduced Row Echelon Form|row reduced echelon]] matrix. It identifies [[Pivot]]
+Is a methodical process that converts any [[Matrix]] into a [[Echelon Forms#Reduced Row Echelon Form|row reduced echelon]] matrix. It identifies [[#*Pivot position*|pivot positions]], then converts that [[#*Pivot position*|pivot positions]] value to 1 and all other entries in the [[#*Pivot position*|pivot position]] to 0
 
 1. Locate the left-most [[Echelon Forms#Non-Zero row/column|non-zero column]]. This is your pivot column. Locate the top-most entry in the pivot column. This is your pivot position.
 2. Use the operation $r_{i}\leftrightarrow r_{j}$ if necessary to move a non-zero entry into the pivot position.  

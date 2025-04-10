@@ -1,4 +1,4 @@
-Let $V$ be a non-zero subspace of $R^n$, a *basis* for $V$ is a [[Linear Independance|linearly independent]] set in $V$ that spans $V$
+Let $V$ be a non-zero subspace of $R^n$, a *basis* for $V$ is a [[Linear Independence#Linear Independence|linearly independent]] set in $V$ that [[Span|spans]] $V$
 
 ## Standard Basis
 The set of standard vectors $\left\{e_{1},e_{2},\dots,e_{n}\right\}$ is a basis for $R^n$. It is called the *standard basis* 

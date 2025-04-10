@@ -20,6 +20,7 @@ $$
 $$
 
 ## Matrix Notation
+### Coefficient Matrix
 If have a system of linear equations
 $$
 \begin{align}
@@ -29,6 +30,6 @@ x_{1}+3x_{2}+2x_{3}&=13 \\
 \end{align}
 $$
 The matrix $\begin{bmatrix}1 & 3 & 2 \\ 2 & 3 & -1  \\ 2 & 0 & -1\end{bmatrix}$ is called the *coefficient matrix*
-
+### Augmented Matrix
 If we add in another column, consisting of the constants we get the matrix $$\left[\begin{matrix}1 & 3 & 2 \\ 2 & 3 & -1 \\ 2 & 0 & -1\end{matrix}\left|\,\begin{matrix}13 \\ 5 \\ 5\end{matrix}\right.\right]$$
 This called the *augmented matrix*
