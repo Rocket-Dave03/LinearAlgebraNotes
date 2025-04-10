@@ -1,4 +1,5 @@
-
+# Theorem 1
+Each [[Matrix|matrix]] is equivalent to one and one one [[Echelon Forms#Reduced Row Echelon Form|reduced echelon]] matrix
 # Theorem 13
 The pivot columns of a matrix $A$ from a basis from the [[Column Space|column space]] of $A$
 # Theorem 14

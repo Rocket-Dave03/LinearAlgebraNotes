@@ -24,4 +24,4 @@ $$
 is the standard basis of $R^3$
 
 
-# [[Theorems#Theorem 13|Theorem 13]]
+ ![[Theorems#Theorem 13|Theorem 13]]

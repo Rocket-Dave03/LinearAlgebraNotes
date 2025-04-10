@@ -6,33 +6,59 @@
       {
         "id": "24d132a9561ef573",
         "type": "tabs",
+        "dimension": 48.97849462365592,
         "children": [
           {
-            "id": "720d0701174b6d5d",
+            "id": "aa1a34bd48fb6015",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Exam.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Exam"
             }
           },
           {
-            "id": "38fb32b0788ad9d6",
+            "id": "1c14a371fb2057db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test 2.md",
+                "file": "Variable types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 2"
+              "title": "Variable types"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "3798e8edc0d74cd8",
+        "type": "tabs",
+        "dimension": 51.02150537634409,
+        "children": [
+          {
+            "id": "2cd17e761114c0ee",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "slides/Mat 2610 Section 1.2 Annotated.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mat 2610 Section 1.2 Annotated"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leading",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 200
   },
   "right": {
     "id": "97662d4b1a34ceff",
@@ -105,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slides/Mat 2610 Section 1.1 Annotated.pdf",
+                "file": "slides/Mat 2610 Section 1.2 Annotated.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mat 2610 Section 1.1 Annotated"
+              "title": "Backlinks for Mat 2610 Section 1.2 Annotated"
             }
           },
           {
@@ -124,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slides/Mat 2610 Section 1.1 Annotated.pdf",
+                "file": "slides/Mat 2610 Section 1.2 Annotated.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mat 2610 Section 1.1 Annotated"
+              "title": "Outgoing links from Mat 2610 Section 1.2 Annotated"
             }
           },
           {
@@ -177,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,41 +216,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38fb32b0788ad9d6",
+  "active": "506612036e80e5ba",
   "lastOpenFiles": [
-    "Section 3.2.md",
-    "Test 2.md",
+    "Variable types.md",
+    "b.md",
+    "a.md",
     "Section 1.2.md",
-    "Section 1.3.md",
-    "Dimension.md",
+    "Row Reduction.md",
+    "Echelon Forms.md",
+    "Theorems.md",
+    "slides/Mat 2610 Section 1.2 Annotated.pdf",
+    "Basis.md",
+    "Exam.md",
+    "slides/Mat 2610 Section 1.1 Annotated.pdf",
+    "Matrix.md",
+    "Elementary Row Operations.md",
+    "slides/Mat 2610 Section 0 Annotated.pdf",
+    "Cramer's Rule.md",
+    "Section 4.1.md",
+    "Section 4.2.md",
+    "Section 4.3.md",
+    "Section 4.4.md",
+    "Section 4.5.md",
+    "Section 4.6.md",
+    "Section 5.1.md",
+    "Section 5.2.md",
+    "Section 6.3.md",
+    "Section 6.2.md",
+    "Section 6.1.md",
+    "Section 5.3.md",
+    "Null Space.md",
+    "Subspace.md",
     "slides/Mat 2610 Section 6.3 Annotated.pdf",
     "slides/Mat 2610 Section 6.2 Annotated.pdf",
     "slides/Mat 2610 Section 6.1 Annotated.pdf",
     "slides/Mat 2610 Section 5.3 Annotated.pdf",
     "slides/Mat 2610 Section 5.2 Annotated.pdf",
     "slides/Mat 2610 Section 5.1 Annotated.pdf",
-    "slides/Mat 2610 Section 4.6 Annotated.pdf",
-    "slides/Mat 2610 Section 4.5 Annotated.pdf",
-    "slides/Mat 2610 Section 4.4 Annotated.pdf",
-    "Basis.md",
-    "pagerank.py~",
-    "Subspace.md",
-    "Section 1.1.md",
-    "Echelon Forms.md",
-    "Theorems.md",
-    "Untitled.md",
-    "Determinants.md",
-    "Cramer's Rule.md",
-    "Section 3.3.md",
-    "Section 3.1.md",
-    "Section 2.9.md",
-    "Rank.md",
-    "Row Reduction.md",
-    "Section 2.8.md",
-    "Column Space.md",
-    "Null Space.md",
-    "Test 1.md",
-    "a.md",
-    "Welcome.md"
+    "slides/Mat 2610 Section 4.6 Annotated.pdf"
   ]
 }

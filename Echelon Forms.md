@@ -10,7 +10,7 @@ A matrix is in row echelon form (or just echelon form) if
 3. If a column contains the [[Echelon Forms#Leading Entry|leading entry]] of some row, then all entries of that column below the leading entry are $0$ (entries above may or may-not be zero)
 
 # Reduced Row Echelon Form
-A matrix is in reduce row echelon form if:
+A matrix is in reduced row echelon form if:
 1. It is in [[Echelon Forms#Row echelon form|row echelon form]]
 2. The [[Echelon Forms#Leading Entry|leading entry]] of each [[Echelon Forms#Non-Zero row/column|non-zero row]] is 1
 3. If a column contains the [[Echelon Forms#Leading Entry|leading entry]] of some row, then all the other entries of that column are 0
