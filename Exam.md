@@ -9,7 +9,7 @@
 	- [x] [[Section 1.4]]
 	- [x] [[Section 1.5]]
 	- [x] [[Section 1.7]]
-	- [ ] [[Section 1.8]]
+	- [x] [[Section 1.8]]
 	- [ ] [[Section 1.9]]
 - Chapter 2
 	- [ ] [[Section 2.1]]

@@ -6,7 +6,7 @@
       {
         "id": "24d132a9561ef573",
         "type": "tabs",
-        "dimension": 40.514905149051486,
+        "dimension": 20.823389021479713,
         "children": [
           {
             "id": "aa1a34bd48fb6015",
@@ -31,7 +31,7 @@
               "type": "markdown",
               "state": {
                 "file": "Exam.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,18 +54,16 @@
       {
         "id": "cc45c09a8d497a27",
         "type": "tabs",
-        "dimension": 59.48509485094851,
+        "dimension": 79.17661097852029,
         "children": [
           {
             "id": "ab00a56ea75f7b0e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "slides/Mat 2610 Section 1.8 Annotated.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Mat 2610 Section 1.8 Annotated"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -213,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,14 +224,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d4b038e39e32982",
+  "active": "ab00a56ea75f7b0e",
   "lastOpenFiles": [
-    "Row Reduction.md",
+    "slides/Mat 2610 Section 1.9 Annotated.pdf",
+    "slides/Mat 2610 Section 1.8 Annotated.pdf",
     "Exam.md",
+    "Section 1.8.md",
+    "Transformation.md",
+    "Row Reduction.md",
     "slides/Mat 2610 Section 1.1 Annotated.pdf",
     "slides/Mat 2610 Section 1.2 Annotated.pdf",
     "Pivot.md",
-    "slides/Mat 2610 Section 1.8 Annotated.pdf",
     "slides/Mat 2610 Section 1.7 Annotated.pdf",
     "Section 1.7.md",
     "Linear Independence.md",
@@ -259,9 +260,6 @@
     "Section 4.1.md",
     "Section 4.2.md",
     "Section 4.3.md",
-    "Section 4.4.md",
-    "Section 4.5.md",
-    "slides/Mat 2610 Section 6.3 Annotated.pdf",
-    "slides/Mat 2610 Section 6.2 Annotated.pdf"
+    "slides/Mat 2610 Section 6.3 Annotated.pdf"
   ]
 }
