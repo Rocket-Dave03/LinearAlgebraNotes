@@ -4,29 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "24d132a9561ef573",
+        "id": "cc45c09a8d497a27",
         "type": "tabs",
-        "dimension": 20.823389021479713,
+        "dimension": 55.265068990559186,
         "children": [
           {
-            "id": "aa1a34bd48fb6015",
+            "id": "ab00a56ea75f7b0e",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exam.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Exam"
-            }
-          },
-          {
-            "id": "7d4b038e39e32982",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -44,26 +29,53 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Exam"
+            }
+          },
+          {
+            "id": "05851837396d71cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Matrix of a Linear Transformation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Matrix of a Linear Transformation"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "cc45c09a8d497a27",
+        "id": "8b10556c7227ad07",
         "type": "tabs",
-        "dimension": 79.17661097852029,
+        "dimension": 44.734931009440814,
         "children": [
           {
-            "id": "ab00a56ea75f7b0e",
+            "id": "cdaeaf4a3b6c8a3e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "slides/Mat 2610 Section 1.9 Annotated.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mat 2610 Section 1.9 Annotated"
             }
           }
         ]
@@ -86,7 +98,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -123,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5
   },
   "right": {
     "id": "97662d4b1a34ceff",
@@ -139,8 +151,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam.md",
-                "collapseAll": false,
+                "file": "The Matrix of a Linear Transformation.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -149,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Exam"
+              "title": "Backlinks for The Matrix of a Linear Transformation"
             }
           },
           {
@@ -206,8 +218,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,22 +235,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab00a56ea75f7b0e",
+  "active": "05851837396d71cd",
   "lastOpenFiles": [
-    "slides/Mat 2610 Section 1.9 Annotated.pdf",
-    "slides/Mat 2610 Section 1.8 Annotated.pdf",
+    "Theorems.md",
+    "The Matrix of a Linear Transformation.md",
+    "Linear Independence.md",
+    "Section 1.9.md",
     "Exam.md",
+    "slides/Mat 2610 Section 1.9 Annotated.pdf",
+    "Row Reduction.md",
+    "Untitled.md",
+    "slides/Mat 2610 Section 1.8 Annotated.pdf",
     "Section 1.8.md",
     "Transformation.md",
-    "Row Reduction.md",
     "slides/Mat 2610 Section 1.1 Annotated.pdf",
     "slides/Mat 2610 Section 1.2 Annotated.pdf",
     "Pivot.md",
     "slides/Mat 2610 Section 1.7 Annotated.pdf",
     "Section 1.7.md",
-    "Linear Independence.md",
     "Basis.md",
-    "Theorems.md",
     "Matrix.md",
     "slides/Mat 2610 Section 1.4 Annotated.pdf",
     "slides/Mat 2610 Section 1.5 Annotated.pdf",
@@ -258,8 +272,6 @@
     "slides/Mat 2610 Section 0 Annotated.pdf",
     "Cramer's Rule.md",
     "Section 4.1.md",
-    "Section 4.2.md",
-    "Section 4.3.md",
     "slides/Mat 2610 Section 6.3 Annotated.pdf"
   ]
 }

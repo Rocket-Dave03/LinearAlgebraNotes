@@ -46,7 +46,16 @@ In fact, if $S$ is linearly dependent and $v_{1}\neq 0$ , then some $v_{j}$ (wit
 If a set contains more vectors than there are entries in each vector, then the set is linearly dependent. That is, any set $\{v_{1}, ..., v_p \}$ in $R^m$ is linearly dependent if $p > n$
 # Theorem 9
 If a set $\{v_{1},\dots,v_{p}\}$ in $R_{n}$ contains the zero vector, then the set is [[Linear Independence#Linear Dependence|linearly dependent]]
+# Theorem  10
 
+let $\large T:R^n\to R^m$ be a [[Transformation#Linear Transformation|linear transformation]]. Then there exists a unique [[Matrix]] $A$ such that
+$$
+T(x)=Ax
+$$
+For all $x \in R^n$
+
+In fact, $A$ is the $m\times n$ matrix whose $jth$ column is the vector $T(e_j)$ where $e_{j}$ is the $jth$ column of the identity matrix in $R^n$
+The matrix $A$ is called the **standard matrix for the linear transformation $T$**
 # Theorem 13
 The pivot columns of a matrix $A$ from a basis from the [[Column Space|column space]] of $A$
 # Theorem 14
